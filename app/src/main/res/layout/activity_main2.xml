@@ -16,8 +16,8 @@
 
         <Button
             android:id="@+id/button"
-            android:layout_width="42dp"
-            android:layout_height="37dp"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
             android:layout_marginStart="159dp"
             android:layout_marginTop="44dp"
             android:layout_marginEnd="159dp"
@@ -79,16 +79,14 @@
 
         <TextView
             android:id="@+id/ingredientslist"
-            android:layout_width="200dp"
+            android:layout_width="199dp"
             android:layout_height="235dp"
             android:text="Lettuce \nTomato \n3 Beef Patties \nCheddar Cheese "
             android:textAllCaps="true"
-            android:textSize="18sp"
+            android:textSize="12sp"
             android:textStyle="bold"
             android:translationX="120dp"
             android:translationY="-110dp" />
-
-
 
 
     </LinearLayout>
